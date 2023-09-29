@@ -1,0 +1,38 @@
+.cpf 
+{
+
+    border-radius: 15px;
+    border-color: rgb(136, 136, 31);
+    transition: all 0.5s;
+
+
+}
+
+.cpf:hover 
+{
+
+border-color: rgb(255, 255, 0);  
+box-shadow: 1px 1px 3px 3px yellow;
+  
+}
+
+
+.cnpj 
+{
+
+    border-radius: 15px;
+    border-color: rgb(136, 136, 31);
+    transition: all 0.5s;
+
+
+}
+
+
+
+.cnpj:hover 
+{
+
+border-color: rgb(255, 255, 0);  
+box-shadow: 1px 1px 3px 3px yellow;
+  
+}
