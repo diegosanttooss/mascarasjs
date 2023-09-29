@@ -29,7 +29,7 @@ function  cpf ()
 
 // query selector: tag, id, classe
 //  para id e classe utilizar a mesma 
-// 
+// OII
 
 
 
